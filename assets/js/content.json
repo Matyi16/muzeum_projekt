@@ -1,0 +1,1271 @@
+[
+  {
+    "id": 1,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Tükrös galvanométer, német gyártmány",
+    "meta": "Dr. B. Lange cég, 1930-as évek",
+    "image": "assets/images/1.jpg",
+    "manufacturer": "Dr. B. Lange cég",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Tükrös galvanométer, német gyártmány a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-001",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/1.jpg"
+    ],
+    "location": "Németország"
+  },
+  {
+    "id": 2,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Többfunkciós elektromos mérőműszer",
+    "meta": "német gyártmány, 1930-as évek",
+    "image": "assets/images/2.jpg",
+    "manufacturer": "ismeretlen német gyártó",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Többfunkciós elektromos mérőműszer a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-002",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/2.jpg"
+    ],
+    "location": "Németország"
+  },
+  {
+    "id": 3,
+    "category": "gepeszet",
+    "badge": "Gépészet & Modellek",
+    "title": "Működőképes stabil gőzgépmodell",
+    "meta": "vizsgamunka, 1957-1958",
+    "image": "assets/images/3.jpg",
+    "manufacturer": "Vizsgamunka (tanulói)",
+    "country": "",
+    "year": "1957-1958",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Működőképes stabil gőzgépmodell a gépészet & modellek területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet & Modellek",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-003",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/3.jpg"
+    ],
+    "location": "Iskolai tanműhely"
+  },
+  {
+    "id": 4,
+    "category": "fizika",
+    "badge": "Fizika & Optika",
+    "title": "Precíziós laboratóriumi kétkarú mérleg",
+    "meta": "Gyártó: Zier Károly Budapest, 1930-as évek",
+    "image": "assets/images/4.jpg",
+    "manufacturer": "Zier Károly",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Precíziós laboratóriumi kétkarú mérleg a fizika & optika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Optika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-004",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/4.jpg"
+    ],
+    "location": "Budapest, Magyarország"
+  },
+  {
+    "id": 5,
+    "category": "egyeb",
+    "badge": "Egyéb & Iskolatörténet",
+    "title": "A valaha volt HG 5 KCC hívójelű népszerű, iskolai rádióamatőr klub emlékére",
+    "meta": "Iskolatörténet",
+    "image": "assets/images/5.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "Iskolatörténet",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) A valaha volt HG 5 KCC hívójelű népszerű, iskolai rádióamatőr klub emlékére a egyéb & iskolatörténet területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Egyéb & Iskolatörténet",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-005",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/5.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 6,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Fizikakísérleti vagy bemutató katódsugárcső",
+    "meta": "1960-as évek",
+    "image": "assets/images/6.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "1960-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Fizikakísérleti vagy bemutató katódsugárcső a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-006",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/6.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 7,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Néhány megmaradt iskolai műhelygyakorlaton gyártott rádiócső (vákuumcső)",
+    "meta": "",
+    "image": "assets/images/7.jpg",
+    "manufacturer": "Iskolai tanműhely",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Néhány megmaradt iskolai műhelygyakorlaton gyártott rádiócső (vákuumcső) a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-007",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/7.jpg"
+    ],
+    "location": "Iskola"
+  },
+  {
+    "id": 8,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Műszer katódsugárcső",
+    "meta": "1960-as évek",
+    "image": "assets/images/8.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "1960-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Műszer katódsugárcső a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-008",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/8.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 9,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Univeka - hordozható szervizműszer",
+    "meta": "hazai gyártmány, 1960",
+    "image": "assets/images/9.jpg",
+    "manufacturer": "ismeretlen hazai gyártó",
+    "country": "",
+    "year": "1960",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Univeka - hordozható szervizműszer a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-009",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/9.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 10,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Unavo – laboratóriumi csővoltmérő",
+    "meta": "",
+    "image": "assets/images/10.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Unavo – laboratóriumi csővoltmérő a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-010",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/10.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 11,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Asztali fadobozos labor-feszültségmérő",
+    "meta": "1930-as évek",
+    "image": "assets/images/11.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Asztali fadobozos labor-feszültségmérő a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-011",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/11.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 12,
+    "category": "elektro",
+    "badge": "Elektrotechnika (ORION-EMG)",
+    "title": "Servotest Signal Generator",
+    "meta": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "image": "assets/images/12.jpg",
+    "manufacturer": "ORION / EMG",
+    "country": "",
+    "year": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Servotest Signal Generator a elektrotechnika (orion-emg) területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika (ORION-EMG)",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-012",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/12.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 13,
+    "category": "elektro",
+    "badge": "Elektrotechnika (ORION-EMG)",
+    "title": "V.T. voltmérő",
+    "meta": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "image": "assets/images/13.jpg",
+    "manufacturer": "ORION / EMG",
+    "country": "",
+    "year": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) V.T. voltmérő a elektrotechnika (orion-emg) területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika (ORION-EMG)",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-013",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/13.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 14,
+    "category": "elektro",
+    "badge": "Elektrotechnika (ORION-EMG)",
+    "title": "Orivohm II. voltmérő",
+    "meta": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "image": "assets/images/14.jpg",
+    "manufacturer": "ORION / EMG",
+    "country": "",
+    "year": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Orivohm II. voltmérő a elektrotechnika (orion-emg) területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika (ORION-EMG)",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-014",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/14.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 15,
+    "category": "elektro",
+    "badge": "Elektrotechnika (ORION-EMG)",
+    "title": "Servotest oscilloscope",
+    "meta": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "image": "assets/images/15.jpg",
+    "manufacturer": "ORION / EMG",
+    "country": "",
+    "year": "Univerzális elektromos mérőhelyek kialakítására alkalmas (1950-1970)",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Servotest oscilloscope a elektrotechnika (orion-emg) területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika (ORION-EMG)",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-015",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/15.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 16,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Unimeter – fadobozos, univerzális, elektromos, hordozható mérőkészülék",
+    "meta": "magyar gyártmány az 1950-es évekből",
+    "image": "assets/images/16.jpg",
+    "manufacturer": "ismeretlen hazai gyártó",
+    "country": "",
+    "year": "1950-es évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Unimeter – fadobozos, univerzális, elektromos, hordozható mérőkészülék a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-016",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/16.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 17,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Szovjet gyártmányú hordozható univerzális mérőműszer",
+    "meta": "",
+    "image": "assets/images/17.jpg",
+    "manufacturer": "ismeretlen szovjet gyártó",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Szovjet gyártmányú hordozható univerzális mérőműszer a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-017",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/17.jpg"
+    ],
+    "location": "Szovjetunió (SzU)"
+  },
+  {
+    "id": 18,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Isoleka – Megaohm szigetelésmérő megger (induktor)",
+    "meta": "",
+    "image": "assets/images/18.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Isoleka – Megaohm szigetelésmérő megger (induktor) a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-018",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/18.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 19,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "UHF-voltmeter",
+    "meta": "Rohde & Schwarz 1948-as gyártmányú, nagyfrenvenciás feszültségmérő",
+    "image": "assets/images/19.jpg",
+    "manufacturer": "Rohde & Schwarz",
+    "country": "",
+    "year": "1948",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) UHF-voltmeter a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-019",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/19.jpg"
+    ],
+    "location": "Németország"
+  },
+  {
+    "id": 20,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Szovjet gyártmányú ellenállásszekrény",
+    "meta": "1950-es évek",
+    "image": "assets/images/20.jpg",
+    "manufacturer": "ismeretlen szovjet gyártó",
+    "country": "",
+    "year": "1950-es évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Szovjet gyártmányú ellenállásszekrény a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-020",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/20.jpg"
+    ],
+    "location": "Szovjetunió (SzU)"
+  },
+  {
+    "id": 21,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "TV-Wobblerscope szerviz/laborműszer",
+    "meta": "Híradástechnikai Szövetkezet, 1965",
+    "image": "assets/images/21.jpg",
+    "manufacturer": "Híradástechnikai Szövetkezet",
+    "country": "",
+    "year": "1965",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) TV-Wobblerscope szerviz/laborműszer a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-021",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/21.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 22,
+    "category": "gepeszet",
+    "badge": "Gépészet & Modellek",
+    "title": "Iskolai elektrotechnikai gyakorlaton alkalmazott kézi tekercselő számláló művel",
+    "meta": "1960-as 1970-es évek",
+    "image": "assets/images/22.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "1960-as 1970-es évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Iskolai elektrotechnikai gyakorlaton alkalmazott kézi tekercselő számláló művel a gépészet & modellek területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet & Modellek",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-022",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/22.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 23,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Bemutató háromcsöves rádiókészülék",
+    "meta": "1964, Transzvill, Mosonyi László",
+    "image": "assets/images/23.jpg",
+    "manufacturer": "Transzvill (Mosonyi László)",
+    "country": "",
+    "year": "1964",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Bemutató háromcsöves rádiókészülék a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-023",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/23.jpg"
+    ],
+    "location": "Magyarország"
+  },
+  {
+    "id": 24,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Áramváltó EKM-gyártmány",
+    "meta": "Elektromos Készülékek és Mérőműszerek Gyára, Kispest, 1950-es évek",
+    "image": "assets/images/24.jpg",
+    "manufacturer": "EKM (Elektromos Készülékek és Mérőműszerek Gyára)",
+    "country": "",
+    "year": "1950-es évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Áramváltó EKM-gyártmány a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-024",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/24.jpg"
+    ],
+    "location": "Kispest, Budapest, Magyarország"
+  },
+  {
+    "id": 25,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Bemutató, kereszt- vagy szorzótekercses teljesítménymérő (wattmérő)",
+    "meta": "",
+    "image": "assets/images/25.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Bemutató, kereszt- vagy szorzótekercses teljesítménymérő (wattmérő) a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-025",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/25.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 26,
+    "category": "fizika",
+    "badge": "Fizika & Optika",
+    "title": "Bemutató, Bourdon-csöves nyomásmérő (manométer)",
+    "meta": "Marx és Mérei gyártmány, Budapest, 1940-es évek",
+    "image": "assets/images/26.jpg",
+    "manufacturer": "Marx és Mérei",
+    "country": "",
+    "year": "1940-es évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Bemutató, Bourdon-csöves nyomásmérő (manométer) a fizika & optika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Optika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-026",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/26.jpg"
+    ],
+    "location": "Budapest, Magyarország"
+  },
+  {
+    "id": 27,
+    "category": "fizika",
+    "badge": "Fizika & Optika",
+    "title": "Anyagvizsgáló vagy fizikalabor-spektroszkóp alapkészülék",
+    "meta": "",
+    "image": "assets/images/27.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Anyagvizsgáló vagy fizikalabor-spektroszkóp alapkészülék a fizika & optika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Optika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-027",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/27.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 28,
+    "category": "fizika",
+    "badge": "Fizika & Optika",
+    "title": "Bemutató, egykarú, ellensúlyos mérleg",
+    "meta": "",
+    "image": "assets/images/28.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Bemutató, egykarú, ellensúlyos mérleg a fizika & optika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Optika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-028",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/28.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 29,
+    "category": "fizika",
+    "badge": "Fizika & Optika",
+    "title": "Szobai légnyomásmérő (barométer)",
+    "meta": "Erdély és Szabó Műszergyár, Budapest, 1930-as évek",
+    "image": "assets/images/29.jpg",
+    "manufacturer": "Erdély és Szabó Műszergyár",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Szobai légnyomásmérő (barométer) a fizika & optika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Optika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-029",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/29.jpg"
+    ],
+    "location": "Budapest, Magyarország"
+  },
+  {
+    "id": 30,
+    "category": "fizika",
+    "badge": "Fizika & Optika",
+    "title": "Fizika laboratóriumi hidrosztatikai kísérleti készlet",
+    "meta": "1930-as évek",
+    "image": "assets/images/30.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Fizika laboratóriumi hidrosztatikai kísérleti készlet a fizika & optika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Optika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-030",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/30.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 31,
+    "category": "elektro",
+    "badge": "Elektrotechnika",
+    "title": "Állandómágneses, váltakozó feszültségű generátormodell (induktor)",
+    "meta": "",
+    "image": "assets/images/31.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Állandómágneses, váltakozó feszültségű generátormodell (induktor) a elektrotechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Elektrotechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-031",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/31.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 32,
+    "category": "gepeszet",
+    "badge": "Gépészet & Modellek",
+    "title": "Szeletelt, egyhengeres, kétütemű, CSEPEL motorkerékpár-motor",
+    "meta": "1950-es évek",
+    "image": "assets/images/32.jpg",
+    "manufacturer": "Csepel",
+    "country": "",
+    "year": "1950-es évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Szeletelt, egyhengeres, kétütemű, CSEPEL motorkerékpár-motor a gépészet & modellek területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet & Modellek",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-032",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/32.jpg"
+    ],
+    "location": "Budapest, Magyarország"
+  },
+  {
+    "id": 33,
+    "category": "fizika",
+    "badge": "Fizika & Optika",
+    "title": "Fizika laboratóriumi, optikai kísérleti eszközkészlet",
+    "meta": "Calderoni, Budapest, 1930-as évek",
+    "image": "assets/images/33.jpg",
+    "manufacturer": "Calderoni",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Fizika laboratóriumi, optikai kísérleti eszközkészlet a fizika & optika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Optika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-033",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/33.jpg"
+    ],
+    "location": "Budapest, Magyarország"
+  },
+  {
+    "id": 34,
+    "category": "gepeszet",
+    "badge": "Gépészet & Modellek",
+    "title": "Bemutató, szeletelt, egyhengeres légsűrítő",
+    "meta": "",
+    "image": "assets/images/34.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Bemutató, szeletelt, egyhengeres légsűrítő a gépészet & modellek területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet & Modellek",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-034",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/34.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 35,
+    "category": "gepeszet",
+    "badge": "Gépészet (Szerszámgépmodellek)",
+    "title": "„Ajax” rugós kalapács",
+    "meta": "Működőképes gépgyártástechnológiai oktatómodell",
+    "image": "assets/images/35.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "Működőképes gépgyártástechnológiai oktatómodell",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) „Ajax” rugós kalapács a gépészet (szerszámgépmodellek) területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet (Szerszámgépmodellek)",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-035",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/35.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 36,
+    "category": "gepeszet",
+    "badge": "Gépészet (Szerszámgépmodellek)",
+    "title": "Asztali fúrógép",
+    "meta": "Működőképes gépgyártástechnológiai oktatómodell",
+    "image": "assets/images/36.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "Működőképes gépgyártástechnológiai oktatómodell",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Asztali fúrógép a gépészet (szerszámgépmodellek) területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet (Szerszámgépmodellek)",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-036",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/36.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 37,
+    "category": "gepeszet",
+    "badge": "Gépészet (Szerszámgépmodellek)",
+    "title": "Vésőgép",
+    "meta": "Működőképes gépgyártástechnológiai oktatómodell",
+    "image": "assets/images/37.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "Működőképes gépgyártástechnológiai oktatómodell",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Vésőgép a gépészet (szerszámgépmodellek) területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet (Szerszámgépmodellek)",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-037",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/37.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 38,
+    "category": "gepeszet",
+    "badge": "Gépészet & Modellek",
+    "title": "Stroboszkóp hatást szemléltető hajtómű, vizsgamunka",
+    "meta": "",
+    "image": "assets/images/38.jpg",
+    "manufacturer": "Vizsgamunka (tanulói)",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Stroboszkóp hatást szemléltető hajtómű, vizsgamunka a gépészet & modellek területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet & Modellek",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-038",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/38.jpg"
+    ],
+    "location": "Iskolai tanműhely"
+  },
+  {
+    "id": 39,
+    "category": "gepeszet",
+    "badge": "Gépészet & Automatizálás",
+    "title": "Festo FPC 101 szabadon programozható vezérlő",
+    "meta": "1980-as évek",
+    "image": "assets/images/39.jpg",
+    "manufacturer": "Festo",
+    "country": "",
+    "year": "1980-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Festo FPC 101 szabadon programozható vezérlő a gépészet & automatizálás területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet & Automatizálás",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-039",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/39.jpg"
+    ],
+    "location": "Németország"
+  },
+  {
+    "id": 40,
+    "category": "gepeszet",
+    "badge": "Gépészet & Modellek",
+    "title": "Működőképes gőzkazán modell",
+    "meta": "1950-es évek",
+    "image": "assets/images/40.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "1950-es évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Működőképes gőzkazán modell a gépészet & modellek területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Gépészet & Modellek",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-040",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/40.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 41,
+    "category": "fizika",
+    "badge": "Fizika & Méréstechnika",
+    "title": "Carl Zeiss, Jena, NDK gyártmányú univerzális műhelymikroszkóp",
+    "meta": "1960-as évek",
+    "image": "assets/images/41.jpg",
+    "manufacturer": "Carl Zeiss Jena",
+    "country": "",
+    "year": "1960-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Carl Zeiss, Jena, NDK gyártmányú univerzális műhelymikroszkóp a fizika & méréstechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Méréstechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-041",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/41.jpg"
+    ],
+    "location": "Jena, NDK (Német Demokratikus Köztársaság)"
+  },
+  {
+    "id": 42,
+    "category": "fizika",
+    "badge": "Fizika & Méréstechnika",
+    "title": "Schmaltz-Linnih ferde fényélű, felületi minőségmérő mikroszkóp",
+    "meta": "1960-as évek",
+    "image": "assets/images/42.jpg",
+    "manufacturer": "Carl Zeiss Jena",
+    "country": "",
+    "year": "1960-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Schmaltz-Linnih ferde fényélű, felületi minőségmérő mikroszkóp a fizika & méréstechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Méréstechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-042",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/42.jpg"
+    ],
+    "location": "Jena, NDK (Német Demokratikus Köztársaság)"
+  },
+  {
+    "id": 43,
+    "category": "fizika",
+    "badge": "Fizika & Méréstechnika",
+    "title": "Sorozatmérő acélmérce",
+    "meta": "Schuchardt & Schütte gyártmány, 1920-as évek",
+    "image": "assets/images/43.jpg",
+    "manufacturer": "Schuchardt & Schütte",
+    "country": "",
+    "year": "1920-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Sorozatmérő acélmérce a fizika & méréstechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Méréstechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-043",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/43.jpg"
+    ],
+    "location": "Németország"
+  },
+  {
+    "id": 44,
+    "category": "egyeb",
+    "badge": "Egyéb eszközök",
+    "title": "Klasszikus tanári fénymutató",
+    "meta": "",
+    "image": "assets/images/44.jpg",
+    "manufacturer": "Iskolai tanműhely",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Klasszikus tanári fénymutató a egyéb eszközök területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Egyéb eszközök",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-044",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/44.jpg"
+    ],
+    "location": "Iskola"
+  },
+  {
+    "id": 45,
+    "category": "fizika",
+    "badge": "Fizika & Vákuumtechnika",
+    "title": "Kísérleti röntgensugárcső",
+    "meta": "1930-as évek",
+    "image": "assets/images/45.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "1930-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Kísérleti röntgensugárcső a fizika & vákuumtechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Vákuumtechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-045",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/45.jpg"
+    ],
+    "location": "-"
+  },
+  {
+    "id": 46,
+    "category": "egyeb",
+    "badge": "Egyéb & Iskolatörténet",
+    "title": "Iskolai csengetési rendet vezérlő ingaóra",
+    "meta": "Csehszlovák gyártmány, 1960-as évek",
+    "image": "assets/images/46.jpg",
+    "manufacturer": "ismeretlen csehszlovák gyártó",
+    "country": "",
+    "year": "1960-as évek",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Iskolai csengetési rendet vezérlő ingaóra a egyéb & iskolatörténet területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Egyéb & Iskolatörténet",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-046",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/46.jpg"
+    ],
+    "location": "Csehszlovákia"
+  },
+  {
+    "id": 47,
+    "category": "fizika",
+    "badge": "Fizika & Vákuumtechnika",
+    "title": "Fizikalaboratóriumi vákuumtechnikai kísérleti alaplap",
+    "meta": "",
+    "image": "assets/images/47.jpg",
+    "manufacturer": "-",
+    "country": "",
+    "year": "",
+    "description": "Az eszköz az iskolai oktatás és szemléltetés céljait szolgálta. A(z) Fizikalaboratóriumi vákuumtechnikai kísérleti alaplap a fizika & vákuumtechnika területéhez kapcsolódó bemutatók, mérések és laboratóriumi gyakorlatok során segítette a tanulók gyakorlati ismeretszerzését.",
+    "educationalUse": "Oktatási és demonstrációs célú felhasználás.",
+    "technicalData": {
+      "type": "Fizika & Vákuumtechnika",
+      "technology": "",
+      "application": "Oktatás és szemléltetés"
+    },
+    "museumData": {
+      "inventoryNumber": "M-047",
+      "condition": "",
+      "exhibition": true
+    },
+    "gallery": [
+      "assets/images/47.jpg"
+    ],
+    "location": "-"
+  }
+]
